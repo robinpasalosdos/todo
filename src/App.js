@@ -25,7 +25,7 @@ const App = () => {
 
   return (
     <div className="container">
-      <h1>Todo List</h1>
+      <h1>Todo</h1>
       <input
         type="text"
         value={newTodo}
